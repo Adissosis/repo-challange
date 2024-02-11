@@ -1,0 +1,7 @@
+1. Copy link ssh repo github
+2. Clone git di vscode
+3. Masukkan link ssh
+4. Buat branch baru 
+5. Commit changes
+6. Source control and commit
+7. Publish branch
